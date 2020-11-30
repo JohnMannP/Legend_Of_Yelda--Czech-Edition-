@@ -1,0 +1,1 @@
+x=msgbox("Umrel jsi.", 0+48, "Smrt")
